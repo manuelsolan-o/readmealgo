@@ -4,7 +4,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Algoritmia-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/algoritmiaclub/)](https://www.linkedin.com/company/algoritmiaclub/)  [![Gmail Badge](https://img.shields.io/badge/-clubalgoritmiagda@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:clubalgoritmiagda@gmail.com)](mailto:clubalgoritmiagda@gmail.com)
 
-*Student Group from [TEC Campus Guadalajara](https://tec.mx/es)*
+*Student Group from [TEC Campus Guadalajara](https://tec.mx/es)* <img src="tec_logo.png" width="30" height="30" />
   
 ## 💡 About us
 <img src="Foto Grupal.png" align="center" />
